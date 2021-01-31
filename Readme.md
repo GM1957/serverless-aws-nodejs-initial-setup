@@ -27,12 +27,12 @@ You will get pre-made user functions for CRUD operation with cognito authorizer,
 
 All you need to do this, fork this repo and follow the steps mentioned below. 
 
-### Requirements
+# Requirements
 
 - [Install the Serverless Framework](https://serverless.com/framework/docs/providers/aws/guide/installation/)
 - [Configure your AWS CLI](https://serverless.com/framework/docs/providers/aws/guide/credentials/)
 
-### Installation
+# Installation
 
 To create a new Serverless project.
 
@@ -83,14 +83,14 @@ Deploy a single function in development
 $ serverless deploy FunctionName --stage dev
 ```
 
-#### Running code formatCheck
+# Running code formatCheck
 
 Run your check using [now there is only the code format checker test]
 
 ``` bash
 $ npm run formatCheck
 ```
-#### Running code formatter
+# Running code formatter
 
 format all the codes with pritter formatter
 
