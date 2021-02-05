@@ -3,7 +3,7 @@
 
 ![Serverless](https://twilio-cms-prod.s3.amazonaws.com/images/serverless-framework-logo.width-808.png)
 
-Of all the things I am a fan of, Serverless is one of them. Needless to say that, serverless in the future and the present. Working with it is super fun and interesting, so I thought of building something that can quickly get you started with it.
+**Of all the things I am a fan of, Serverless is one of them. Needless to say that, serverless in the future and the present. Working with it is super fun and interesting, so I thought of building something that can quickly get you started with it.**
 
 
 
