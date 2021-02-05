@@ -1,6 +1,10 @@
 # Serverless AWS-NodeJs intial setup :hammer:
 
+
 ![Serverless](https://twilio-cms-prod.s3.amazonaws.com/images/serverless-framework-logo.width-808.png)
+
+serverless aws-nodejs starter pack with User CURD operations and cognito setup, you will get pre-made user functions for CURD operation with Cognito authorizer, basic Cognito setup, one dummy S3 bucket and function to upload images on S3, DB clients for S3 and dynamoDB with status codes.
+
 
 
 Of all the things I am a fan of, Serverless is one of them. Needless to say that, serverless in the future and the present. Working with it is super fun and interesting, so I thought of building something that can quickly get you started with it. 
