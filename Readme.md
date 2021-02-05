@@ -7,7 +7,7 @@
 
 
 
-serverless aws-nodejs starter pack with User CURD operations and cognito setup, you will get pre-made user functions for CURD operation with Cognito authorizer, basic Cognito setup, one dummy S3 bucket and function to upload images on S3, DB clients for S3 and dynamoDB with status codes.
+Serverless aws-nodejs starter pack with User CURD operations and cognito setup, you will get pre-made user functions for CURD operation with Cognito authorizer, basic Cognito setup, one dummy S3 bucket and function to upload images on S3, DB clients for S3 and dynamoDB with status codes.
  
 # What does it do? 🤔
 
