@@ -70,7 +70,7 @@ $ serverless invoke local -f Users -p ./pathToYour_input.json --stage dev
 $ serverless offline --stage dev
 ```
 
-- Deploy your project in development stage
+- Deploy your project in development stage:
 
 ``` bash
 $ serverless deploy --stage dev
