@@ -1,6 +1,6 @@
 # Serverless AWS-NodeJs intial setup
 
-serverless aws-nodejs initial setup with nodejs, you will get pre-made user functions for CRUD operation with cognito authorizer, Webpack configs, basic cognito setup, one dummy s3 bucket and function to upoad images on s3 and db clients for s3 and dynamodb with status codes.
+serverless aws-nodejs starter pack with User CURD operations and cognito setup, you will get pre-made user functions for CURD operation with Cognito authorizer, basic Cognito setup, one dummy S3 bucket and function to upload images on S3, DB clients for S3 and dynamoDB with status codes.
 
 - **User create, update, get, deltete, deactivate functions in DynamoDB table and to delete cognito user**
 - **Cognito authorizer**
